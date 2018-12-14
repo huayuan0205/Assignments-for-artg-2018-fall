@@ -1,0 +1,13 @@
+.plot{
+	height:600px;
+	width:100%
+}
+.node circle{
+	fill-opacity:.1;
+	stroke:#333;
+	stroke-width:2px;
+}
+
+.node text{
+	fill:#333;
+}
